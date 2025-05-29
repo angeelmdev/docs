@@ -45,7 +45,7 @@
 En Flutter, un widget es un objeto temporal usado para construir una presentación de la aplicación en su estado actual.  
 Los widgets se organizan en forma de árbol, tal como poder observar en la siguiente imagen:
 
-![Alt text](image.png)
+![Alt text](image.png){ width=300 }
 
 <div id='id2' />
 
