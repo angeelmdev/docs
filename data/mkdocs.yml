@@ -4,6 +4,19 @@ docs_dir: docs
 
 nav:
   - Docker: docker/index.md
+  - React: react/index.md
+  - Nextjs: nextjs/index.md
+  - Symfony:
+    - Crear proyecto: symfony/crear-proyecto/index.md
+    - Estructura de un proyecto: symfony/estructura-proyecto/index.md
+    - Creación y gestión de bases de datos: symfony/gestion-bases-de-datos/index.md
+    - Controllers: symfony/controllers/index.md
+    - Consultar a Base de datos: symfony/consulta-base-de-datos/index.md
+    - Formularios: symfony/formularios/index.md
+    - Autentificación de usuarios: symfony/autenticacion/index.md
+    - Subida de archivos: symfony/subida-archivos/index.md
+    - Twig: symfony/twig/index.md
+    - Path y asset: symfony/path-asset/index.md
   - Flutter:
     - Conceptos básicos: flutter/conceptos-basicos/index.md
     - Instalación Flutter: flutter/instalacion-flutter/index.md
