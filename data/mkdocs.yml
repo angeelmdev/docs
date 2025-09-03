@@ -5,8 +5,8 @@ docs_dir: docs
 nav:
   - Docker: docker/index.md
   - React: react/index.md
-  - Nextjs: nextjs/index.md
   - Symfony:
+    - PHP: symfony/php/index.md
     - Crear proyecto: symfony/crear-proyecto/index.md
     - Estructura de un proyecto: symfony/estructura-proyecto/index.md
     - Creación y gestión de bases de datos: symfony/gestion-bases-de-datos/index.md
@@ -23,6 +23,7 @@ nav:
     - Lenguaje Dart: flutter/lenguaje-dart/index.md
     - StatelessWidget y StatefulWidget: flutter/stateless-stateful-widget/index.md
     - Tipos Widgets: flutter/tipos-widgets/index.md
+  - AWS: aws/index.md
 
 theme:
   name: material
